@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "11209538128",
+    "project_id": "comment-list-app",
+    "storage_bucket": "comment-list-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11209538128:android:a39e74bd7ddcbb1878ef55",
+        "android_client_info": {
+          "package_name": "com.example.comment_list_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkS85VaSJB9qfTtmRgg_UbXcCrEyK2wAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
